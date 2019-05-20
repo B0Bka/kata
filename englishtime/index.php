@@ -84,6 +84,7 @@ class englishTime
     }
 }
 
+
 $time = new englishTime('16:59');
 $time->getLiteralTime();
 ?>
